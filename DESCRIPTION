@@ -1,0 +1,17 @@
+Package: ylDB
+Title: The Database Using by Yuanlong Hu
+Version: 0.1.0
+Authors@R: 
+    person(given = "Yuanlong",
+           family = "Hu",
+           role = c("aut", "cre"),
+           email = "huyuanlong1996@163.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The database was used by Yuanlong Hu.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
